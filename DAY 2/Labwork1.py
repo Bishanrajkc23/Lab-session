@@ -1,3 +1,4 @@
+# conver sec into day, hrs, mins
 sec = int(input("Enter second: "))
 day = int(sec/86400)
 hrs = int(sec/3600)
